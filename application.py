@@ -1,4 +1,3 @@
-print("user 1")
-print("user 2")
-print("user 3")
-print("user 4")
+print("User 1")
+print("User 2")
+print("User 3")
